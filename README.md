@@ -24,7 +24,7 @@ This data analysis project aims to provide insights into understanding of overal
 
 Sales Data: The primary dataset used for this analysis is the file, containing detailed information about each sale made by the company
 
-## Dataset :- 
+## Dataset :-
 
 ### Tools
 
